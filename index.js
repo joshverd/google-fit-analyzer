@@ -71,7 +71,7 @@ const workoutTypeToAnalyze = 'Biking';
       };
 
       // Log the workout object for easier debugging
-      // console.log(workoutData);
+      console.log(workoutData);
 
       // Push the workout to the workouts array
       workouts.push(workoutData);
